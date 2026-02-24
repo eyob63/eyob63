@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I’m Eyob
 
-<!--
-**eyob63/eyob63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Moodle & IOMAD LMS Specialist focused on building scalable, secure, and high-performing e-learning platforms.
 
-Here are some ideas to get you started:
+I help institutions and organizations design, deploy, and optimize Moodle-based learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+
+- 🔧 Moodle Installation, Upgrades & Performance Optimization
+- 🏢 IOMAD Multi-Tenant Setup & Tenant Management
+- 🎨 Theme Customization & Branding
+- 🧩 Plugin Configuration & Custom Development (PHP)
+- 📚 Course Structuring & Instructional Design
+- 📊 User Roles, Permissions & Advanced Reporting
+- 🔐 Security Hardening & Server Optimization
+
+---
+
+## 🧰 Tech Stack
+
+Moodle | IOMAD | PHP | MySQL | Bootstrap | HTML | CSS | Javascript | Inmotion hosting management 
+
+---
+
+## 📌 Featured Focus Areas
+
+- Multi-tenant LMS Architecture
+- Enterprise LMS Setup
+- Performance & Security Optimization
+- Custom Workflow Automation
+- Instructional Design for Online Learning
+
+---
+
+## 🌍 Let’s Connect
+
+- 🌐 Website: https://eyob.lovestoblog.com
+- 📧 Email: eyobayele999@gmail.com
+
+---
+
+⭐ Open to freelance and collaborative LMS projects worldwide.
