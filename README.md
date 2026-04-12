@@ -36,8 +36,8 @@ Moodle | IOMAD | PHP | MySQL | Bootstrap | HTML | CSS | Javascript | Inmotion ho
 
 ## 🌍 Let’s Connect
 
-- 🌐 Website: https://eyob.lovestoblog.com
-- 📧 Email: eyobayele999@gmail.com
+- 🌐 Website: https://eyob-ayele.pages.dev
+- 📧 Email: eyobayelewolde@gmail.com
 
 ---
 
